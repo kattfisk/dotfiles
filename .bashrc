@@ -19,7 +19,7 @@ alias cocker-dompose='docker-compose'
 
 alias shrug="echo '¯\_(ツ)_/¯'"
 
-#shopt -s globstar
+shopt -s globstar
 
 #alias murder-android-cache="rm -rf /tmp/metro-* && rm -rf ~/.android/build-cache && rm -rf node_modules/ && npm cache clean --force && npm ci"
 
