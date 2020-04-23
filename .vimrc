@@ -21,6 +21,7 @@ set ignorecase
 set smartcase
 set mouse=r
 set relativenumber
+set number
 
 command WQ wq
 command Wq wq
