@@ -24,3 +24,5 @@ shopt -s globstar
 #alias murder-android-cache="rm -rf /tmp/metro-* && rm -rf ~/.android/build-cache && rm -rf node_modules/ && npm cache clean --force && npm ci"
 
 alias xclip="xclip -selection clipboard"
+
+alias k="kubectl"
