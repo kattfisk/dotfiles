@@ -22,3 +22,5 @@ shopt -s globstar
 alias xclip="xclip -selection clipboard"
 
 alias capsesc="setxkbmap -option caps:escape"
+
+alias cat="cat -v"
